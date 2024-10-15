@@ -2,6 +2,11 @@
     "files.associations": {
         "vector": "cpp",
         "ostream": "cpp",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "xstring": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "type_traits": "cpp",
+        "xutility": "cpp"
     }
 }
