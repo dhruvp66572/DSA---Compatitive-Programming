@@ -2,6 +2,14 @@ package Colleg_Problems;
 
 import java.util.Scanner;
 
+// assertEquals(true, anagram.checkanagram("listen", "silent"));
+// assertEquals(true, anagram.checkanagram("triangle", "integral"));
+// assertEquals(false, anagram.checkanagram("apple", "pale"));
+// assertEquals(false, anagram.checkanagram("hello", "world"));
+// assertEquals(true, anagram.checkanagram("aabbcc", "bbaacc"));
+// assertEquals(false, anagram.checkanagram("abcd", "abcde"));
+
+
 public class anagram {
 
     private static boolean checkanagram(String s1, String s2) {

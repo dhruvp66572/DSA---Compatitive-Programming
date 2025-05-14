@@ -1,7 +1,7 @@
 public class Fibonacci_Number_509 {
 
     public static void main(String[] args) {
-        int n = 3;
+        int n = 6;
 
         int ans = fibonaccisum(n);
 

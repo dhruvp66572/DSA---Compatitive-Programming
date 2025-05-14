@@ -1,6 +1,5 @@
 public class Best_Sightseeing_Pair_1014 {
     
-
     public static int maxScoreSightseeingPair(int[] values) {
         int max = 0;
         int maxScore = 0;
